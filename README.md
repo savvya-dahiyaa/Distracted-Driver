@@ -1,1 +1,2 @@
-# Distracted-Driver
+Problem Statement
+Distracted driving poses a significant threat to road safety, contributing to a large number of accidents and fatalities worldwide. In response to this challenge, we have proposed a model for distracted driver detection that leverages Computer vision-based systems to offer a promising approach for detecting various distractions, such as texting, eating, or adjusting electronic devices, by analysing visual cues from in-vehicle cameras in real time.The system aims to detect and classify a range of distracted driving behaviours in real-time, enabling timely intervention and prevention of potential accidents.
